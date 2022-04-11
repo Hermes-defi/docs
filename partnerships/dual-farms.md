@@ -10,6 +10,8 @@ Dual Farms are an innovative farming mechanism that allows farmers to receive **
 
 {% hint style="info" %}
 Note: This document is extremely thorough, please ensure you take the proper amount of time required to fully review all aspects of our Dual Farm system before applying.
+
+Apply through the google form: [https://forms.gle/7uu9zgcCfjE3Vxoa6](https://forms.gle/7uu9zgcCfjE3Vxoa6)
 {% endhint %}
 
 You can view our [code surrounding our dual farms ](https://github.com/Hermes-defi/hermes-swap/blob/main/contracts/MasterChefHermesV2.sol)(currently under review by [Certik](https://www.certik.com/projects/hermes-defi), who has reviewed projects with a combined TVL of 288B).
