@@ -17,7 +17,7 @@ sHRMS is not a Token/Receipt therefore there is no Contract ID for sHRMS. There 
 ### FAQ:
 
 * _How often is UST distributed?_
-  * Every 24 hours.
+  * It is constantly refilled.
 * _Will there be any fees for staking/depositing?_
   * Yes, sHRMS has a deposit fee mechanism (1% fee) to prevent over-saturation.
 * _Where is the fee sent?_
