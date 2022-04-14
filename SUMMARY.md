@@ -17,6 +17,7 @@
 
 * [WONE Bank](hermes-products/wone-bank.md)
 * [Hermes Farms](hermes-products/hermes-farms.md)
+* [Hermes Bonds](hermes-products/hermes-bonds.md)
 * [hONE](hermes-products/hone.md)
 * [xHRMS](hermes-products/xhrms.md)
 * [sHRMS](hermes-products/shrms.md)
