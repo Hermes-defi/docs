@@ -123,4 +123,4 @@ A value in excess of **$15,000 per week** ($60,000 per month) in its treasury du
 This calculation assumes:
 
 * Total TVL of the platform: $32,000,000
-* Average HRMS price over the cycle: $0.78
+* Average HRMS price over the cycle: $0.78 -- This is our most conservative estimate within our bonding model and peer analysis.
