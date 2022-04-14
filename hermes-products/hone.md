@@ -4,7 +4,7 @@ description: Auto-compounding and fully trustless liquid ONE Staking.
 
 # hONE
 
-## hONE (Hermes Staked ONE)![](<../.gitbook/assets/Hermes Staked ONE.png>)
+## hONE (Hermes Staked ONE)<img src="../.gitbook/assets/Hermes Staked ONE.png" alt="" data-size="line">
 
 hONE is a defi primitive designed to unlock illiquid ONE held within validators on the Harmony Blockchain. It utilizes staking precompiles made available through a hard fork in the Harmony Blockchain in February to directly interact with Harmony validators, meaning your funds are only accessible through your wallet. &#x20;
 

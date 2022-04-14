@@ -94,7 +94,7 @@ Additionally, our bond offers are **limited in number of tokens**, so it is poss
 
 ### Hermes Bonding Cycles
 
-The bonds will be launched in different cycles (15 or 30 day) to ensure the control of the token issuance and at the same time optimize to find the most appropriate configuration. Bonding cycles allow adjustment to best fit both the users and their preferences in the previous cycle and the Protocol's treasury and its strategies.&#x20;
+Hermes bonds will be launched in 30 day cycles to ensure the control of the token issuance and at the same time optimize to find the most appropriate configuration. Bonding cycles allow adjustment to best fit both the users and their preferences in the previous cycle and the Protocol's treasury and its strategies.&#x20;
 
 {% hint style="info" %}
 The cycle will be based on 4 simple phases: Configure, Implement, Review, and Launch.

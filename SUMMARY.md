@@ -25,3 +25,11 @@
 ## 🤝 Partnerships
 
 * [Dual Farms](partnerships/dual-farms.md)
+
+## 🎙 Socials and Community
+
+* [Hermes RPC](socials-and-community/hermes-rpc.md)
+
+## 📚 Due Dilligence
+
+* [Hermes Multi-Sigs](due-dilligence/hermes-multi-sigs.md)
