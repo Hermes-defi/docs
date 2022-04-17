@@ -18,7 +18,7 @@ When someone wishes to unstake hONE, there are two different options. First, the
 
 * _Are there fees associated with hONE?_
   * There are no additional fees planned for hONE, however, the Validators fee (typically 5%) are removed from rewards automatically.
-* _When will I be able to use hONE?_ 🐰
+* _When will I be able to use hONE?_
   * hONE is currently under audit from Certik. Due to the nature of this contract, it may take additional time to audit fully. The expected date to receive an audit report is late May or early June.
 * _Where will I be able to use hONE?_
   * Our initial focus for hONE will first be to establish hONE/ONE liquidity on Hermes. Once that reaches sufficient levels, hONE may start to be phased in as the WONE replacement on some of our farms.

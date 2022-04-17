@@ -46,5 +46,3 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 * [ ] Leveraged Trading/Farming
 * [ ] NFT Staking
 * [ ] NFT Marketplace
-
-🐰
