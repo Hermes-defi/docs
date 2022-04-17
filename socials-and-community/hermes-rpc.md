@@ -18,7 +18,7 @@ Hermes DeFi operates a RPC (Remote Procedure Call) gateway for the Harmony block
 >
 > Block Explorer: [https://explorer.harmony.one/](https://explorer.harmony.one)
 
-Step 1. Open the Settings in your MetaMask extension or mobile wallet.
+Step 1. Open the Settings in your MetaMask extension or mobile wallet. 🐰
 
 <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
 

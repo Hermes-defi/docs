@@ -36,7 +36,7 @@ The initial list of assets that Hermes will offer bonds for are as follows:
 * UST
 * HRMS / WONE
 * HRMS / UST
-* IRIS -- Available on launch, but may be removed after some time.
+* IRIS -- Available on launch, but may be removed after some time. 🐰
 
 <table><thead><tr><th>Asset</th><th>Type</th><th>Vesting Period</th><th>Discount (%)</th><th data-type="number">HRMS Allocation</th></tr></thead><tbody><tr><td>WONE</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>UST</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>IRIS</td><td>Single</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>15d</td><td>3</td><td>6400</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>30d</td><td>8</td><td>9600</td></tr><tr><td>HRMS/UST</td><td>LP</td><td>15d</td><td>3</td><td>8000</td></tr><tr><td>HRMS/UST</td><td>LP</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>Total HRMS</td><td></td><td></td><td></td><td>80000</td></tr></tbody></table>
 
