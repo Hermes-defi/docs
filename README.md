@@ -10,11 +10,13 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 
 ### Q1
 
+* [x] Trader Joe V2 Core DEX/AMM (testnet 4/20/22, mainnet 5/16/22)
 * [x] PLTS Swap Mechanism
-* [x] Trader Joe V2 Core DEX/AMM
 * [x] IRIS (Buybacks/Platform Fee Redistribution)
 * [x] Bonds (Protocol Owned Liquidity)
 * [x] Dual Farms
+* [x] xHRMS (Stake HRMS earn HRMS + Partner Tokens)
+* [x] sHRMS (Stake HRMS earn UST)
 * [x] New UI/UX
 * [x] Team Dox
 * [x] Migrator
@@ -24,7 +26,7 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 ### Q2
 
 * [ ] Certik Audit (In Progress, Report due April 29th)
-* [ ] DEX/AMM Launch (Estimated Launch date May 10th, 2022)
+* [ ] DEX/AMM Launch (Estimated Launch date May 16th, 2022)
 * [ ] hONE Launch
 * [ ] Zap Contracts
 * [ ] Autocompounding Vaults
