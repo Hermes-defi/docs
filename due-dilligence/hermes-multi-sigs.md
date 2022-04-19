@@ -14,10 +14,6 @@ Holds [Launch Grant](https://talk.harmony.one/t/hermes-defi-the-hermes-protocol/
 * Austin (Core Hermes Team) - 0x9Ba90A89382b59C2E93f123452719d016483B590
 * A.Maik (Core Hermes Team) - 0x498Dd5A79ab7e19Be1dA81738239214F807E3462
 * Wendel (Core Hermes Team) - 0x78B3Ec25D285F7a9EcA8Da8eb6b20Be4d5D70E84
-* Valley (Core Hermes Team) - 0x7cef2432A2690168Fb8eb7118A74d5f8EfF9Ef55
-* Austin (Core Hermes Team) - 0x9Ba90A89382b59C2E93f123452719d016483B590
-* A.Maik (Core Hermes Team) - 0x498Dd5A79ab7e19Be1dA81738239214F807E3462
-* Wendel (Core Hermes Team) - 0x78B3Ec25D285F7a9EcA8Da8eb6b20Be4d5D70E84
 * Ben2K\_Stakeridoo (Validator DAO) - 0x542422766519CE9cb6D6206b5013FD21b38F02e4&#x20;
 * HankTheCrank (Validator DAO) - 0x65B69Da3D9Aa99cb81ECF908FB25656856c957A6
 * StakeItONE (Validator) - 0xff1239e6c529b764161f5a6dbf2e24db7e81e292
