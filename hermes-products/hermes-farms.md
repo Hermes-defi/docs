@@ -30,7 +30,7 @@ Rewards from Hermes farms are **FULLY UNLOCKED,** allowing users to compound ear
 
 ### Farms Available on Launch
 
-![The launch farms for The Hermes Protocol](<../.gitbook/assets/Farm List.png>)
+![](../.gitbook/assets/Farm\_List.png)
 
 Hermes has spent _a lot_ of time planning our launch farms. It is absolutely critical that there is cost-efficient routing between tokens in order to support a healthy DEX. To this end, we will launch with a total of 13 farming possibilities. In an unprecedented move, we are also sharing _the exact emissions weighting_ for these farms to help our users plan out their migration and strategy for The Hermes Protocol. These values are as finalized as possible.
 
