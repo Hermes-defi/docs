@@ -2,7 +2,8 @@
 
 ## ⛰ The Hermes Protocol
 
-* [Roadmap](README.md)
+* [Mission, Values, & Vision](README.md)
+* [Roadmap](<README (1).md>)
 * [Timeline](the-hermes-protocol/timeline.md)
 * [PLTS to HRMS Transition](the-hermes-protocol/plts-to-hrms-transition.md)
 

@@ -1,50 +1,23 @@
 ---
-description: What is the Hermes Protocol?
+description: >-
+  To empower DeFi users with the services necessary to obtain fiscal knowledge
+  and financial freedom.
 ---
 
-# Roadmap
+# Mission, Values, & Vision
 
-The Hermes Protocol refers to an entire suite of DeFi applications centered around a low-cost and efficient DEX/AMM. We aim to integrate many advanced features to bring trading on Harmony to the next level. Learn more about the [hermes-token-distribution.md](tokenomics/hermes-token-distribution.md "mention"), [farming-emissions-schedule.md](tokenomics/farming-emissions-schedule.md "mention"), [feenomics.md](tokenomics/feenomics.md "mention"), and our ecosystem [tokens-iris-plts-and-hrms.md](tokenomics/tokens-iris-plts-and-hrms.md "mention") on their dedicated pages.
+### Mission Statement:
 
-![](.gitbook/assets/New\_Roadmap.png)
+> ### To empower DeFi users with the services necessary to obtain fiscal knowledge and financial freedom.
 
-### Q1
+### Vision Statement:
 
-* [x] Trader Joe V2 Core DEX/AMM (testnet 4/20/22, mainnet 5/16/22)
-* [x] PLTS Swap Mechanism
-* [x] IRIS (Buybacks/Platform Fee Redistribution)
-* [x] Bonds (Protocol Owned Liquidity)
-* [x] Dual Farms
-* [x] xHRMS (Stake HRMS earn HRMS + Partner Tokens)
-* [x] sHRMS (Stake HRMS earn UST)
-* [x] New UI/UX
-* [x] Team Dox
-* [x] Migrator
-* [ ] Advanced Charting and Analytics
-* [ ] Hermes Foundation
+> ### We picture a world where beginners and experts alike have the tools, access to knowledge, and the ability to achieve financial freedom in order to pursue an exceptional quality of life.
 
-### Q2
+### Values Statement:
 
-* [ ] Certik Audit (In Progress, Report due April 29th)
-* [ ] DEX/AMM Launch (Estimated Launch date May 16th, 2022)
-* [ ] hONE Launch
-* [ ] Zap Contracts
-* [ ] Autocompounding Vaults
-* [ ] Lending/Borrowing System
-* [ ] Improved IRIS Governance Strategy
-
-### Q3
-
-* [ ] Limit Orders
-* [ ] Cross-Bridge Liquidity
-* [ ] IRIS Node (Stable Returns)
-* [ ] Order Book Visualizations
-* [ ] FIAT Onramp Integration
-* [ ] HERMES Tax Reporting
-* [ ] Trade History Report
-
-### Q4
-
-* [ ] Leveraged Trading/Farming
-* [ ] NFT Staking
-* [ ] NFT Marketplace
+> ### Hermes has three truths we swear to and will always uphold: Safe: The contracts used by Hermes will utilize as many safety features as possible to ensure the security of the funds housed in them.
+>
+> ### Transparent: In all Hermes products, users are aware of the location and status of their capital. All financial transactions  made by Hermes are public and communicated.&#x20;
+>
+> ### Fast: Our team maintains a dynamic mentality and a maximum disposition, ready to face new challenges that arise. Development of new and exciting products quickly but without compromising the security of the project.
