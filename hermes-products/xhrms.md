@@ -4,7 +4,9 @@ description: Single stake HRMS to earn more HRMS and partner tokens.
 
 # xHRMS
 
-## xHRMS (Hermes Bar)
+## xHRMS
+
+![](<../.gitbook/assets/xHRMS Cover.png>)
 
 xHRMS is a single-staking usage for HRMS that will be available upon launch of The Hermes Protocol. Staking HRMS in this manner rewards you with xHRMS, which can generate yield through two mechanisms.
 
@@ -14,6 +16,8 @@ xHRMS is a single-staking usage for HRMS that will be available upon launch of T
 ### xHRMS Mechanisms
 
 xHRMS was inspired by many other 'x' tokens (xSUSHI, xBOO, etc) that increase in redemption value and provide a sustainable way to grow exposure to an asset (HRMS) without risk of impermanent loss. In addition to this, it can be staked in pools to earn partnership tokens source from dual farms.
+
+![](../.gitbook/assets/xHRMS1.png)
 
 The Hermes Fee Distribution contract receives the platform fee from each swap. With 25% of the received fee, it purchases HRMS from the available liquidity and sends it to the xHRMS contract, increasing the number of available HRMS, such that the redemption value of each minted xHRMS increases proportional to the trading volume of our DEX.
 

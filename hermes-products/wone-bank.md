@@ -6,6 +6,8 @@ description: Learn more about the WONE bank and how it exactly works.
 
 ## The Hermes WONE Bank
 
+![](<../.gitbook/assets/WONE Bank.png>)
+
 {% hint style="info" %}
 This content was contained within [#the-new-hermes-wone-bank](../the-hermes-protocol/plts-to-hrms-transition.md#the-new-hermes-wone-bank "mention"), but is being highlighted here for maximum visibility.
 {% endhint %}
@@ -26,7 +28,7 @@ To look more at the math behind this contract and estimated APRs, you can view t
 
 * PLTS rewards **start on block 24,095,140** (\~15 Mar 2022 2:28:25 AM EST) and **end on block 26,376,387 (1,128,279 blocks, \~May 10th).**
 * PLTS that can be sold or exchanged for pHERMES.&#x20;
-* 100% of deposited WONE will be converted to Hermes DEX HRMS/WONE LP. (50% buys HRMS and is paired with the remaining 50% WONE). You will withdraw HRMS/WONE LP tokens and be able to farm with them as soon as the DEX launches!
+* 100% of deposited WONE will be converted to Hermes DEX HRMS/WONE LP. (50% buys HRMS and is paired with the remaining 50% WONE). You will withdraw HRMS/WONE LP tokens and be able to farm with them at the same moment (when the DEX launches)!
 
 ### Contract functionality:
 

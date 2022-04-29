@@ -72,13 +72,13 @@ You can play with the [Dual Farm Calculator](https://docs.google.com/spreadsheet
 
 At the time of token transfer from the partner, Hermes will calculate the number of partner tokens required based on the current value of the HRMS token allocation for the dual farm duration. This partner token will EXCLUSIVELY be placed into the dual farm. Additional fees will be paid to Hermes depending on the type of farm Type A (75:25) or Type B (50:50).
 
-**Dual Farm Type A (75:25)** Additional fee equivalent to 23% of farm allocation.&#x20;
+**Dual Farm Type A (75:25)** Additional fee equivalent to 11.5% of farm allocation.&#x20;
 
-66.6% to Hermes Developers, 16.6% to Hermes Treasury, 16.6% to stake xHRMS Rewards
+80% to Hermes Developers, 20% to stake xHRMS Rewards
 
-**Dual Farm Type B (50:50)** Additional fee equivalent to 31% of farm allocation.
+**Dual Farm Type B (50:50)** Additional fee equivalent to 15.5% of farm allocation.
 
-55.5% to Hermes Developers, 22.2% to Hermes Treasury, 22.2% to stake xHRMS Rewards
+80% to Hermes Developers, 20% to stake xHRMS Rewards
 
 ### Part 4: Limitations
 

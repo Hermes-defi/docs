@@ -36,8 +36,8 @@ Our updated timeline has NO delay between the WONE Bank unlock, pHRMS to HRMS Sw
 | 4 - PLTS to pHRMS Swap Opens                                                                        | xx,xxx,xxx                  | + 1 day (\~May 11th)                                 |
 | 5- PLTS Project Owned Liquidity (>90% as of 4/14/22) Swapped                                        |                             | 15 minutes before swap closes.                       |
 | :exclamation: ALL PLTS MUST BE SWAPPED :exclamation:                                                | **before PLTS swap closes** | :exclamation: ALL PLTS MUST BE SWAPPED :exclamation: |
-| 5 - PLTS to pHRMS Swap Closes                                                                       | xx,xxx,xxx                  | +3 days (\~May 14th)                                 |
-| 6 - HRMS Liquidity Added (DEX Launch!)                                                              | xx,xxx,xxx                  | \~ May 15/16th                                       |
+| 5 - PLTS to pHRMS Swap Closes                                                                       | xx,xxx,xxx                  | +4 days (\~May 15th)                                 |
+| 6 - HRMS Liquidity Added (DEX Launch!)                                                              | xx,xxx,xxx                  | \~ May 16th                                          |
 | 7 - WONE Bank HRMS Purchase                                                                         |                             | (**same block as ^)**                                |
 | 8 - Viper to Hermes Liquidity Migration                                                             |                             | **Minutes after ^**                                  |
 | 9 - pHRMS to HRMS Swap Opens                                                                        |                             | **Minutes after ^**                                  |
