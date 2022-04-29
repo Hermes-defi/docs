@@ -8,6 +8,8 @@ description: >-
 
 ## What is a bond?
 
+![](../.gitbook/assets/Bonds.png)
+
 {% hint style="info" %}
 Bonding allows Hermes Protocol to accumulate its own liquidity and start building its investment treasury.
 {% endhint %}

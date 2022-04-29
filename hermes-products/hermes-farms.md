@@ -6,6 +6,8 @@ description: Get a preview of the farming options available on The Hermes Protoc
 
 ## What is Liquidity Farming?
 
+![](../.gitbook/assets/farms.png)
+
 ### Liquidity Positions
 
 [Liquidity farming](https://wiki.hermesdefi.io/index.php?title=Introduction\_To\_DeFi#Yield\_Farming) is a type of yield-generation strategy that rewards users who _provide liquidity_ to a decentralized exchange. To enter into a yield farm, users must first create a [liquidity position](https://wiki.hermesdefi.io/index.php?title=How\_To\_Create\_an\_LP\_Pair). Briefly, the user must supply equivalent values of two tokens to create a Liquidity Position, which is represented as a 'HERMES-LP' token and returned to the user's wallet.&#x20;
