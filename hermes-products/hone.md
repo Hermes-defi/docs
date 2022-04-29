@@ -14,7 +14,7 @@ hONE is a defi primitive designed to unlock illiquid ONE held within validators 
 
 The mechanisms (and code underlying this contract) are open-source and available on the [Hermes GitHub](https://github.com/Hermes-defi/hermes-hone-multi). Briefly, the user deposits ONE into the hONE contract which mints hONE and deposits the ONE into an eligible Validator. Users are then free to utilize their hONE in liquidity positions, farming liquidity-based yields as well as realize auto-compounding rewards from staking ONE to secure the Harmony blockchain.
 
-![](../.gitbook/assets/hONE1.png)
+![](../.gitbook/assets/hone2.png)
 
 When someone wishes to unstake hONE, there are two different options. First, the user can unstake hONE by depositing it back into the hONE contract and waiting 127 hours (or 7 epochs) to withdraw their undelegated ONE from the contract. Alternatively, they may sell their hONE for ONE through a DEX swap, which typically results in slightly less value for the premium of immediate access.&#x20;
 
