@@ -13,7 +13,7 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 #### Back-End
 
 * [x] Migrator
-* [x] Trader Joe V2 Core DEX/AMM (testnet 5/7/22, mainnet 5/16/22)
+* [x] Trader Joe V2 Core DEX/AMM (testnet 5/3/22, mainnet 5/16/22)
 * [x] sHRMS (Stake HRMS earn UST)
 * [x] xHRMS (Stake HRMS earn HRMS + Partner Tokens)
 * [x] Dual Farms
