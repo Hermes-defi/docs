@@ -10,23 +10,19 @@ Born in July 2021 under the head of v_alleyrider and his little brother_.
 
 Created under the principles. **Safe**, **Transparent** & **Fast**
 
+****
 
-
-_Safe_
+* _Safe_
 
 The contracts used by Hermes have the maximum existing mechanisms to ensure the security of the funds housed in them.&#x20;
 
-
-
-_Transparent_
+* _Transparent_
 
 Throughout the time users are aware of the location and status of their capital, all movements made by Hermes are public and communicated.
 
+* _Fast_
 
-
-_Fast_
-
-&#x20;The entire team has a dynamic mentality and a maximum disposition to go, ready to face new challenges that arise, in a fast way, always without compromising the security of the project.
+The entire team has a dynamic mentality and a maximum disposition to go, ready to face new challenges that arise, in a fast way, always without compromising the security of the project.
 
 ## Values
 
