@@ -22,6 +22,8 @@ Throughout the time users are aware of the location and status of their capital,
 
 The entire team has a dynamic mentality and a maximum disposition to go, ready to face new challenges that arise, in a fast way, always without compromising the security of the project.
 
+![](.gitbook/assets/Docs3.png)
+
 ## Values
 
 * Bring Defi closer to a global and diverse world.&#x20;
@@ -29,7 +31,7 @@ The entire team has a dynamic mentality and a maximum disposition to go, ready t
 * Promote education within it, making it accessible and understandable.&#x20;
 * Collaborate to achieve a fair environment through Hermes Foundation.
 
-## Values Statement
+## What does Hermes represent?
 
 Hermes is a God of the Greek Olympus, who represents
 
@@ -38,6 +40,8 @@ Hermes is a God of the Greek Olympus, who represents
 * Commerce
 
 These 3 representations coincide with Defi's intrinsic values, so Hermes is the perfect figure to lead our project.
+
+![](<.gitbook/assets/Diseño sin título.png>)
 
 ## **Mission**
 
@@ -51,4 +55,6 @@ The mission is clear and simple.
 Defi will be one of the sectors that will be at the forefront of the world economy in the coming years.
 
 Being part of this sector from now on, developing and understanding the mechanisms that manage it and which are the ones that will do it in the future, being ourselves the precursors of them. This allows Hermes to position itself as one of the visible heads of the sector today and as a key player in the future.
+
+![](.gitbook/assets/doooc.png)
 
