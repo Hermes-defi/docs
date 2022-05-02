@@ -10,8 +10,6 @@ Born in July 2021 under the head of v_alleyrider and his little brother_.
 
 Created under the principles. **Safe**, **Transparent** & **Fast**
 
-****
-
 * _Safe_
 
 The contracts used by Hermes have the maximum existing mechanisms to ensure the security of the funds housed in them.&#x20;
