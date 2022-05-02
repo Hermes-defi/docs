@@ -1,23 +1,60 @@
 ---
-description: >-
-  To empower DeFi users with the services necessary to obtain fiscal knowledge
-  and financial freedom.
+description: The pillars on which Hermes Defi is built
 ---
 
-# Mission, Values, & Vision
+# What is Hermes Defi?
 
-### Mission Statement:
+## Origin
 
-> ### To empower DeFi users with the services necessary to obtain fiscal knowledge and financial freedom.
+Born in July 2021 under the head of v_alleyrider and his little brother_.
 
-### Vision Statement:
+Created under the principles. **Safe**, **Transparent** & **Fast**
 
-> ### We picture a world where beginners and experts alike have the tools, access to knowledge, and the ability to achieve financial freedom in order to pursue an exceptional quality of life.
 
-### Values Statement:
 
-> ### Hermes has three truths we swear to and will always uphold: Safe: The contracts used by Hermes will utilize as many safety features as possible to ensure the security of the funds housed in them.
->
-> ### Transparent: In all Hermes products, users are aware of the location and status of their capital. All financial transactions  made by Hermes are public and communicated.&#x20;
->
-> ### Fast: Our team maintains a dynamic mentality and a maximum disposition, ready to face new challenges that arise. Development of new and exciting products quickly but without compromising the security of the project.
+_Safe_
+
+The contracts used by Hermes have the maximum existing mechanisms to ensure the security of the funds housed in them.&#x20;
+
+
+
+_Transparent_
+
+Throughout the time users are aware of the location and status of their capital, all movements made by Hermes are public and communicated.
+
+
+
+_Fast_
+
+&#x20;The entire team has a dynamic mentality and a maximum disposition to go, ready to face new challenges that arise, in a fast way, always without compromising the security of the project.
+
+## Values
+
+* Bring Defi closer to a global and diverse world.&#x20;
+* Make known the possibilities of your capital&#x20;
+* Promote education within it, making it accessible and understandable.&#x20;
+* Collaborate to achieve a fair environment through Hermes Foundation.
+
+## Values Statement
+
+Hermes is a God of the Greek Olympus, who represents
+
+* Physical and knowledge travelers
+* Innovations&#x20;
+* Commerce
+
+These 3 representations coincide with Defi's intrinsic values, so Hermes is the perfect figure to lead our project.
+
+## **Mission**
+
+The mission is clear and simple.
+
+* Provide all Defi services available on a single platform
+* Generate new products to solve new problems
+
+## Vision
+
+Defi will be one of the sectors that will be at the forefront of the world economy in the coming years.
+
+Being part of this sector from now on, developing and understanding the mechanisms that manage it and which are the ones that will do it in the future, being ourselves the precursors of them. This allows Hermes to position itself as one of the visible heads of the sector today and as a key player in the future.
+
