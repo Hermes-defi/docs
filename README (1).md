@@ -6,7 +6,7 @@ description: What is the Hermes Protocol?
 
 The Hermes Protocol refers to an entire suite of DeFi applications centered around a low-cost and efficient DEX/AMM. We aim to integrate many advanced features to bring trading on Harmony to the next level. Learn more about the [hermes-token-distribution.md](tokenomics/hermes-token-distribution.md "mention"), [farming-emissions-schedule.md](tokenomics/farming-emissions-schedule.md "mention"), [feenomics.md](tokenomics/feenomics.md "mention"), and our ecosystem [tokens-iris-plts-and-hrms.md](tokenomics/tokens-iris-plts-and-hrms.md "mention") on their dedicated pages.
 
-![](<.gitbook/assets/New Roadmap.png>)
+![](<.gitbook/assets/New Roadmap (1).png>)
 
 ### Q1
 
@@ -44,6 +44,7 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 
 * [ ] Dashboard Editions
 * [ ] Personal Portfolio
+* [ ] EPNS Notification System Integration
 
 #### General
 
@@ -63,6 +64,7 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 
 * [ ] Order Book Visualizations
 * [ ] FIAT Onramp Integration
+* [ ] Bridge Aggregator
 
 #### General
 
