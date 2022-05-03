@@ -49,7 +49,7 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 #### General
 
 * [ ] New Protocol Tokenomics
-* [ ] Improved IRIS Governance Strategy
+* [ ] Improved Governance Strategy
 * [ ] Certik Audit (In Progress, Report due April 29th)
 
 ### Q3
@@ -57,7 +57,6 @@ The Hermes Protocol refers to an entire suite of DeFi applications centered arou
 #### Back-End
 
 * [ ] Limit Orders
-* [ ] Cross-Bridge Liquidity
 * [ ] HRMS Node (Stable Returns)
 
 #### Front-End
