@@ -8,7 +8,7 @@ There are a few major events that dictate the release of The Hermes Protocol. We
 
 ### Major Events
 
-**WONE bank (Updated 4/14/22)**
+**WONE bank (Updated 5/11/22)**
 
 The [wone-bank.md](../hermes-products/wone-bank.md "mention") is our fair-token launch mechanism for HRMS, allowing participants to help jump-start HRMS liquidity while earning PLTS tokens.
 
@@ -16,7 +16,7 @@ The [wone-bank.md](../hermes-products/wone-bank.md "mention") is our fair-token 
 | ----------- | ---------------- | ------------- | ----------------------- |
 | 24,095,140  | 26,376,387       | 25,248,108    | 1,128,279 (\~ May 10th) |
 
-#### PLTS to HRMS transition (Updated 4/14/22)
+#### PLTS to HRMS transition (Updated 5/11/22)
 
 This transition step allows PLTS liquidity to be migrated at the given launch price and initial liquidity of HRMS. Read the entire doc here: [plts-to-hrms-transition.md](plts-to-hrms-transition.md "mention")&#x20;
 
