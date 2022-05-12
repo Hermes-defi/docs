@@ -109,7 +109,7 @@ The operation of the contract will be as follows:
 
 ### Point of Liquidity Addition
 
-Two percent (2%) of the total HRMS supply will be used to add liquidity. Hermes will provide $275,000 in WONE along with 600,000 HRMS. This will give a launch price of **$0.4583.** As soon as this liquidity is added, the WONE bank's contract will buy with 50% of its deposited value, **raising the floor price of HRMS, returning value to all users proportional to the total amount deposited into the WONE bank**.
+Two percent (2%) of the total HRMS supply will be used to add liquidity. Hermes will provide $150,000 in WONE along with 400,000 HRMS. This will give a launch price of **$0.4583.** As soon as this liquidity is added, the WONE bank's contract will buy with 50% of its deposited value, **raising the floor price of HRMS, returning value to all users proportional to the total amount deposited into the WONE bank**.
 
 {% hint style="info" %}
 HRMS Initial Launch Price - $0.4583
@@ -143,7 +143,7 @@ When the PLTS-pHRMS swap is completed, the project should own all circulating PL
 **A journey well spent. Farewell PLTS.**
 {% endhint %}
 
-The 1DAI raised will be used in **its entirety** to provide initial HERMES / WONE liquidity, in the case of obtaining private funding and securing the $275,000 through other means, the 1DAI raised will **be sent to the 5/9 multisig**, set up according to Harmony requirements where the funds will be supervised by 5 members of the community.
+The 1DAI raised will be used in **its entirety** to provide initial HERMES / WONE liquidity, in the case of obtaining private funding and securing the $150,000 through other means, the 1DAI raised will **be sent to the 5/9 multisig**, set up according to Harmony requirements where the funds will be supervised by 5 members of the community.
 
 ### Timing
 

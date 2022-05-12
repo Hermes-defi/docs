@@ -40,7 +40,7 @@ The operation of the contract will be as follows:
 4. PLTS rewards are stopped around 1 day before adding liquidity to HRMS/WONE.&#x20;
 5. Investors swap their PLTS to pHRMS.&#x20;
 6. HRMS/ONE liquidity is added in the **SAME TRANSACTION** that the WONE bank swaps half of the deposited WONE to HRMS. The exact block of this call is not defined. When this function is called, the contract performs the following:
-   * Contract Admin initiates initial HRMS/ONE liquidity ($275,000 in WONE + 600,000 HRMS) using the Hermes Router.
+   * Contract Admin initiates initial HRMS/ONE liquidity ($150,000 in WONE + 400,000 HRMS) using the Hermes Router.
    * The Bank Contract purchases HRMS with 50% of the bank's WONE value.&#x20;
    * The Bank Contract creates HRMS/WONE LP with remaining 50% in WONE and the received HRMS. This LP is now fully unlocked and able to be withdrawn by users.
    * Users will return their 'Bank Share' tokens to claim their proportional share of new Hermes $WONE / $HRMS LP. They are free to do whatever they wish with this LP
