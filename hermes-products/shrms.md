@@ -4,11 +4,11 @@ description: Set it and forget it, earn UST using single staking of HRMS.
 
 # sHRMS
 
-## sHRMS
+## sHRMS (Salary Hermes)
 
 ![](<../.gitbook/assets/sHRMS Cover.png>)
 
-sHRMS or Share Hermes, is a single staking utility for the HRMS token that provides users with yields paid in the UST stablecoin.
+sHRMS or [Salary Hermes](https://snapshot.org/#/hermesdefi.eth/proposal/0xc47f8ee25c9884e0ed5eed57da0d132c01b19a5107be942ce42b32eee3cd89de), is a single staking utility for the HRMS token that provides users with yields paid in the UST stablecoin.
 
 ### sHRMS Mechanisms
 
@@ -31,7 +31,7 @@ sHRMS is not a Token/Receipt therefore there is no Contract ID for sHRMS. There 
 * _Where do these fees come from?_
   * Trade fees are 0.20% each swap. 0.17% goes to LP providers and 0.03% goes to a contract which swaps 25% of the collected fees to UST and deposits rewards into the sHRMS contract.
 * _How much do I earn?_
-  * sHRMS Stakers receive rewards proportional to their share of the sHRMS vault. The amount of UST deposited as rewards is directly related to the volume traded on the DEX.
+  * sHRMS Stakers receive rewards proportional to their share of the sHRMS vault. The amount of UST deposited as rewards is directly related to the volume traded on the DEX. You can find in-depth information on our dedicated analytics dashboard.
 
 {% hint style="warning" %}
 User Reward Rate = userHRMS / totalHRMS \* sHRM Reward Rate.
