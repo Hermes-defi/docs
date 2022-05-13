@@ -10,13 +10,13 @@ Hermes DeFi operates a RPC (Remote Procedure Call) gateway for the Harmony block
 >
 > Network Name: Hermes DeFi RPC
 >
-> RPC URL: [https://rpc.hermesdefi.io/](https://rpc.hermesdefi.io)
+> RPC URL: [https://rpc.hermesdefi.io/](https://rpc.hermesdefi.io/)
 >
 > Chain ID: 1666600000&#x20;
 >
 > Currency Symbol: ONE&#x20;
 >
-> Block Explorer: [https://explorer.harmony.one/](https://explorer.harmony.one)
+> Block Explorer: [https://explorer.harmony.one/](https://explorer.harmony.one/)
 
 Step 1. Open the Settings in your MetaMask extension or mobile wallet.
 
