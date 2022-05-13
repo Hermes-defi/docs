@@ -16,7 +16,7 @@ description: Get a preview of the farming options available on The Hermes Protoc
 At Hermes, 85% of swap fees are returned to LP providers. Earnings from swap fees are automatically compounded without user input, and are realized when one 'Breaks' their liquidity position back into the two underlying tokens.
 {% endhint %}
 
-Whenever you enter a liquidity position, you should be aware of [Impermanent loss](https://wiki.hermesdefi.io/index.php?title=Introduction\_To\_DeFi#Impermanent\_Loss), which occurs when there is drastic divergence in token prices within the liquidity position. Impermanent loss is complex idea, but often the rewards from farming often still offset this effect. Additionally, liquidity positions with Stablecoins (UST, 1USDC) or highly correlated assets (hONE/WONE) can reduce this risk.
+Whenever you enter a liquidity position, you should be aware of [Impermanent loss](https://wiki.hermesdefi.io/index.php?title=Introduction\_To\_DeFi#Impermanent\_Loss), which occurs when there is drastic divergence in token prices within the liquidity position. Impermanent loss is complex idea, but often the rewards from farming often still offset this effect. Additionally, liquidity positions with Stablecoins (1USDC, DAI) or highly correlated assets (hONE/WONE) can reduce this risk.
 
 ### Farming Liquidity Positions
 
@@ -32,26 +32,39 @@ Rewards from Hermes farms are **FULLY UNLOCKED,** allowing users to compound ear
 
 ### Farms Available on Launch
 
-![](../.gitbook/assets/Farm\_List.png)
+Hermes has spent _a lot_ of time planning our launch farms. It is absolutely critical that there is cost-efficient routing between tokens in order to support a healthy DEX. In an unprecedented move, we are also sharing _the exact emissions weighting_ for these farms to help our users plan out their migration and strategy for The Hermes Protocol.&#x20;
 
-Hermes has spent _a lot_ of time planning our launch farms. It is absolutely critical that there is cost-efficient routing between tokens in order to support a healthy DEX. To this end, we will launch with a total of 13 farming possibilities. In an unprecedented move, we are also sharing _the exact emissions weighting_ for these farms to help our users plan out their migration and strategy for The Hermes Protocol. These values are as finalized as possible.
+#### Native and Layer 1/Layer 2 tokens
 
-| Farm                  | Farm Category | Emissions Weight |
-| --------------------- | ------------- | ---------------- |
-| HRMS / UST            | Stablecoin    | 8%               |
-| WONE / UST            | Stablecoin    | 8%               |
-| UST / 1USDC           | Stablecoin    | 4%               |
-| IRIS (Single Staking) | Native        | 2%               |
-| IRIS / WONE           | Native        | 5%               |
-| HRMS / X              | IRIS Voted    | 5%               |
-| HRMS / WONE           | L1            | 30%              |
-| hONE / WONE\*         | L1            | 8%               |
-| HRMS / LUNA           | L1            | 6%               |
-| HRMS / WMATIC         | L1            | 6%               |
-| HRMS / 1ETH           | Blue Chip     | 7%               |
-| WBTC / 1ETH           | Blue Chip     | 5%               |
-| 1ETH / WONE           | Blue Chip     | 6%               |
+| Farm                  | Classification | Emissions Weight |
+| --------------------- | -------------- | ---------------- |
+| IRIS (Single-Staking) | Native         | 1%               |
+| IRIS/WONE (or USDC)   | Native         | 3%               |
+| HRMS/WONE             | L1/L2          | 30%              |
+| HRMS/AVAX             | L1/L2          | 5%               |
+| HRMS/MATIC            | L1/L2          | 4%               |
+| HRMS/FTM              | L1/L2          | 3%               |
+| HRMS/BNB              | L1/L2          | 5%               |
+| HRMS/JEWEL            | L1/L2          | 2%               |
 
-\*hONE / WONE won't be available until after it is audited from Certik, estimated to be completed by the end of May.
+#### Blue Chips
 
-If you scan this table, you can see that there is an IRIS-voted farm. This will be our first usage of IRIS to incentivize a specific token! If you're an IRIS holder, make sure you vote in our snapshot to determine what this farm will be.
+| Farm      | Classification | Emissions Weight |
+| --------- | -------------- | ---------------- |
+| HRMS/ETH  | Blue Chip      | 8%               |
+| HRMS/WBTC | Blue Chip      | 8%               |
+| WBTC/ETH  | Blue Chip      | 4%               |
+| 1BTC/WBTC | Blue Chip      | 2%               |
+| ETH/WONE  | Blue Chip      | 4%               |
+
+#### Stables
+
+| Farm      | Classification | Emissions Weight |
+| --------- | -------------- | ---------------- |
+| USDC/WONE | Stable         | 9%               |
+| USDC/HRMS | Stable         | 10%              |
+| USDC/1DAI | Stable         | 2%               |
+
+
+
+We have quite a few major partnerships coming, so these farms and their emissions weight are subject to change. Up to date information will always be found in our front end interface.
