@@ -14,7 +14,7 @@ description: >-
 Bonding allows Hermes Protocol to accumulate its own liquidity and start building its investment treasury.
 {% endhint %}
 
-Bonding is the main value accrual strategy of The Hermes Protocol. It allows the Protocol to acquire its own liquidity and other reserve assets such as WONE and UST **by selling HRMS at a discount** over a set period of time **(a bond)** in exchange for these assets.
+Bonding is the main value accrual strategy of The Hermes Protocol. It allows the Protocol to acquire its own liquidity and other reserve assets such as WONE and USDC **by selling HRMS at a discount** over a set period of time **(a bond)** in exchange for these assets.
 
 To the end user, the Protocol quotes the bonder with terms such as:
 
@@ -35,12 +35,12 @@ The price discovery mechanism of the secondary bond market renders bond discount
 The initial list of assets that Hermes will offer bonds for are as follows:
 
 * WONE
-* UST
+* USDC
 * HRMS / WONE
-* HRMS / UST
+* HRMS / USDC
 * IRIS -- Available on launch, but may be removed after some time.
 
-<table><thead><tr><th>Asset</th><th>Type</th><th>Vesting Period</th><th>Discount (%)</th><th data-type="number">HRMS Allocation</th></tr></thead><tbody><tr><td>WONE</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>UST</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>IRIS</td><td>Single</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>15d</td><td>3</td><td>6400</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>30d</td><td>8</td><td>9600</td></tr><tr><td>HRMS/UST</td><td>LP</td><td>15d</td><td>3</td><td>8000</td></tr><tr><td>HRMS/UST</td><td>LP</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>Total HRMS</td><td></td><td></td><td></td><td>80000</td></tr></tbody></table>
+<table><thead><tr><th>Asset</th><th>Type</th><th>Vesting Period</th><th>Discount (%)</th><th data-type="number">HRMS Allocation</th></tr></thead><tbody><tr><td>WONE</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>USDC</td><td>Single</td><td>30d</td><td>8</td><td>16000</td></tr><tr><td>IRIS</td><td>Single</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>15d</td><td>3</td><td>6400</td></tr><tr><td>HRMS/WONE</td><td>LP</td><td>30d</td><td>8</td><td>9600</td></tr><tr><td>HRMS/USDC</td><td>LP</td><td>15d</td><td>3</td><td>8000</td></tr><tr><td>HRMS/USDC</td><td>LP</td><td>30d</td><td>8</td><td>12000</td></tr><tr><td>Total HRMS</td><td></td><td></td><td></td><td>80000</td></tr></tbody></table>
 
 {% hint style="info" %}
 With various bonding assets, durations, and discounts, users will be able to acquire HRMS based on these variables and their personal preferences.
@@ -50,8 +50,8 @@ With various bonding assets, durations, and discounts, users will be able to acq
 
 The Protocol has prepared a strategy that allows it to start accumulating **two types of assets**.
 
-* Native liquidity (HRMS/WONE, HRMS/UST)
-* Tokens with a large market backing aka "Blue Chips" (WONE, UST)
+* Native liquidity (HRMS/WONE, HRMS/USDC)
+* Tokens with a large market backing aka "Blue Chips" (WONE, USDC)
 
 By obtaining these types of assets we will be able to achieve two essential goals for any Protocol:&#x20;
 
