@@ -36,6 +36,10 @@ Hermes has spent _a lot_ of time planning our launch farms. It is absolutely cri
 
 ![](<../.gitbook/assets/Farm List UPDATE.png>)
 
+In addition to them _$HRMS will be established as the primary route for all of our DEX_ to provide higher volume to their LPs, which will translate into a **higher APR for their liquidity providers**.
+
+![](../.gitbook/assets/Routing.png)
+
 #### Native and Layer 1/Layer 2 tokens
 
 | Farm                  | Classification | Emissions Weight |
