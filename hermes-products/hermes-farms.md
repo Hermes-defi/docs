@@ -34,7 +34,7 @@ Rewards from Hermes farms are **FULLY UNLOCKED,** allowing users to compound ear
 
 Hermes has spent _a lot_ of time planning our launch farms. It is absolutely critical that there is cost-efficient routing between tokens in order to support a healthy DEX. In an unprecedented move, we are also sharing _the exact emissions weighting_ for these farms to help our users plan out their migration and strategy for The Hermes Protocol.&#x20;
 
-![](<../.gitbook/assets/Farm List (1).png>)
+![](<../.gitbook/assets/Farm List UPDATE.png>)
 
 #### Native and Layer 1/Layer 2 tokens
 
