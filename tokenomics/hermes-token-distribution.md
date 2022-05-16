@@ -4,7 +4,7 @@ description: An overview of how the HERMES (HRMS) token will be distributed.
 
 # HERMES Token Distribution
 
-![](../.gitbook/assets/Token\_Distribution\_update.png)
+![](<../.gitbook/assets/Token Distribution Chart.png>)
 
 The distribution of the HERMES (HRMS) token has been designed to return high yields to liquidity providers, support further development of Hermes Defi, and incentivize various community programs. **Forty percent** (all non-farming rewards) of HRMS will be minted at launch and stored in appropriately secured mutli-sig wallets under the control of KYC’d members of Hermes DeFi core leadership. The definitions of each category are as follows:
 
